@@ -8,6 +8,6 @@ spec:
   interval: 1m0s
   ref:
     branch: master
-  url: https://github.com/yogeshraheja/KubernetesVotingApp
+  url: https://github.com/smiles7v/DockerVotingApp/tree/master/KubernetesVotingApp
   secretRef:
     name: devopsinaction-secret
